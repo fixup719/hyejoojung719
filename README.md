@@ -17,7 +17,7 @@ Hello! I'm developer, working to provide a better user experience.
 * 2024.07 빅데이터분석기사
 * 2024.06 정보처리기사
 * 2024.03 COS Pro 1급 (Java)
-* 2023.09 OPIC IM2
+* 2023.09 OPIC IM2 - 만료
 * 2022.06 SQLD 
 
 ## 🏆 Awards
