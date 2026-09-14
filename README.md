@@ -14,10 +14,10 @@ Hello! I'm developer, working to provide a better user experience.
 * 서울여자대학교 행정학과(본), 소프트웨어융합학과(복) ( 2016.03 ~ 2021.08 )
 
 ## 💳 Certificates
+* 2026.09 TOEIC Speaking AL
 * 2024.07 빅데이터분석기사
 * 2024.06 정보처리기사
 * 2024.03 COS Pro 1급 (Java)
-* 2023.09 OPIC IM2 - 만료
 * 2022.06 SQLD 
 
 ## 🏆 Awards
